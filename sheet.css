@@ -1,0 +1,8 @@
+プレーン表示コピー印刷?
+/*-------------------------wrapperの指定*/   
+#wrapper {  
+  text-align: left;  
+  width: 800px;  
+  margin: 0 auto;  
+  padding: 0;  
+}  
